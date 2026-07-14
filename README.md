@@ -75,12 +75,13 @@ Passionate about building modern web applications, solving DSA problems in Java,
 </p>
 
 ---
-
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 - 📧 Email: **patelpiyush90804@gmail.com**
+
 - 🌐 GitHub: **https://github.com/Kpiyush02**
 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"> LinkedIn: **https://www.linkedin.com/in/piyush-kumar02**
 ---
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
