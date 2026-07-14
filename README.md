@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hi, I'm Piyush Kumar</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Piyush+Kumar;Java+Developer;Full+Stack+Developer;DSA+Learner" alt="Typing SVG" />
+</p>
 
 <h3 align="center">💻 CSE Student | Full Stack Learner | DSA Learner</h3>
 
